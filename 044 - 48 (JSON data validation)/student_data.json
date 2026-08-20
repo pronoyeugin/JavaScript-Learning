@@ -1,0 +1,48 @@
+{
+  "students": [
+    {
+      "name": " Anisul Islam ",
+      "middlename": null,
+      "age": 28,
+      "cgpa": 3.15,
+      "isRegistered": true,
+      "language": [
+        "Bangla",
+        "English",
+        "France"
+      ],
+      "friends": [
+        {
+          "name": "Pronoy",
+          "age": 28
+        },
+        {
+          "name": "Eugin",
+          "age": 27
+        }
+      ]
+    },
+    {
+      "name": " Rafiq ",
+      "middlename": null,
+      "age": 27,
+      "cgpa": 3.5,
+      "isRegistered": false,
+      "language": [
+        "Bangla",
+        "English",
+        "Spanis"
+      ],
+      "friends": [
+        {
+          "name": "John",
+          "age": 28
+        },
+        {
+          "name": "Smith",
+          "age": 27
+        }
+      ]
+    }
+  ]
+}

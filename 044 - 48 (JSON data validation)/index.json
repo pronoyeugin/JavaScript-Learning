@@ -1,0 +1,35 @@
+// simple data
+
+   /* object : */
+    {
+        "name" : "Pronoy",
+        "age"  : 27,
+        "city" : "New York"
+    },
+
+    {
+        "name" : "Eugin",
+        "age"  : 28,
+        "city" : "Dhaka"
+    }
+
+   /* array : */
+   {    
+    "friends" : [
+        {
+            "name" : "Pronoy",
+            "age"  : 27,
+            "city" : "New York"
+        },
+
+        {
+            "name" : "Eugin",
+            "age"  : 28,
+            "city" : "Dhaka"
+        }
+
+    ]
+}
+
+
+// to check json validation : https://codebeautify.org/jsonviewer

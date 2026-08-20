@@ -1,0 +1,9 @@
+JSON File conveeter :
+    https://www.liquid-technologies.com/online-json-to-schema-converter
+
+JSON schema validatOR
+    https://www.jsonschemavalidator.net/
+
+JSON Learning : 
+https://www.tutorialspoint.com/json/index.htm
+https://www.w3schools.com/js/js_json.asp

@@ -1,0 +1,26 @@
+DOM and DOM Tree
+-- Document Object Model represent html and xml like a tree structure 
+-- Manipulating 
+    -> creating, inserting, removing elements 
+    -> Traversing - Selecting an elements from other elements
+
+
+-- How to select DOM  elements
+   -> Selecting DOM elements
+      getElementByID(),
+      getElementByClassName(),
+      getElementsByTagName(),
+      querySelector(),
+      querySelectorAll(),
+
+-- Direction for Traversing
+    1. Downwards
+        1. querySelector() / querySelectorAll()
+        2. children
+    2. Upwards 
+        1. parentElement
+    3. Sideways 
+        1. nextElementSibling, previousElementShibling
+        2. parentElement + children + index
+
+
